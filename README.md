@@ -1,1 +1,1 @@
-# Zig lang practice project
+# Zig language practice project
